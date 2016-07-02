@@ -1,0 +1,115 @@
+{
+  "public": {
+    "title": "Toloka",
+    "tagline": "TOLOKA ",
+    "logoUrl": "/briefcase.ico",
+    "logoHeight": "80",
+    "logoWidth": "250",
+    "faviconUrl": "/briefcase.ico",
+    "requirePostsApproval": false,
+    "requireViewInvite": false,
+    "requirePostInvite": false,
+    "enableNewsletter": true,
+    "autoSubscribe": true,
+    "emailNotifications": true,
+    "postInterval": 20,
+    "RSSLinksPointTo": "link",
+    "commentInterval": 20,
+    "maxPostsPerDay": 10,
+    "startInvitesCount": 5,
+    "postsPerPage": 10,
+
+    "language": "en",
+    "twitterAccount": "TolokaImpact",
+     "CONSUMER_KEY" : "LBpVaoaJqRGJWO6aBwSSzQx8v",
+    "CONSUMER_SECRET": "GUrrgMgIcU0gj70LXMF2RWX4EfS9TOm5lrV1FLS3Po6yEsjuVU",
+    "ACCESS_TOKEN" : "739047883052318720-4YDvZVEJgIH81zkOTU47lpafdsYErHD",
+    "ACCESS_TOKEN_SECRET": "Zy43zrye7282tL8Q989WM8eRHQfOK5DCpcV4p52j5p4Ti",
+
+    "facebookPage": "http://www.facebook.com/GDG-Kyiv-Center-557822581039379",
+
+    "googleAnalyticsId":"123"
+  },
+
+  "defaultEmail": "toloka.impact@gmail.com",
+  "mailUrl": "toloka.impact@gmail.com:@smtp.gmail.com:465",
+  "scoreUpdateInterval": "30",
+  "embedlyKey": "123",
+  "mailChimpAPIKey": "123",
+  "mailChimpListId": "123",
+
+    "categories": [
+      {
+        "name": "Education",
+        "description": "The first test category",
+        "order": 4,
+        "slug": "testcat1",
+        "image": "/favicon.ico"
+      },
+      {
+        "name": "Ecology",
+        "description": "The second test category",
+        "order": 7,
+        "slug": "testcat2",
+        "image": "/favicon.ico"
+      },
+      {
+        "name": "Children",
+        "description": "The third test category",
+        "order": 10,
+        "slug": "testcat3",
+        "image": "/favicon.ico"
+      },
+      {
+        "name": "Science",
+        "description": "The third test category",
+        "order": 10,
+        "slug": "testcat4",
+        "image": "/favicon.ico"
+      },
+      {
+        "name": "Sport",
+        "description": "The third test category",
+        "order": 10,
+        "slug": "testcat5",
+        "image": "/favicon.ico"
+      },
+      {
+        "name": "Health Care",
+        "description": "The third test category",
+        "order": 10,
+        "slug": "testcat6",
+        "image": "/favicon.ico"
+      },
+      {
+        "name": "Human Rights",
+        "description": "The third test category",
+        "order": 10,
+        "slug": "testcat7",
+        "image": "/favicon.ico"
+      },
+      {
+        "name": "Nature",
+        "description": "The third test category",
+        "order": 10,
+        "slug": "testcat8",
+        "image": "/favicon.ico"
+      },
+      {
+        "name": "Events",
+        "description": "The third test category",
+        "order": 10,
+        "slug": "testcat9",
+        "image": "/favicon.ico"
+
+      },
+      {
+        "name": "Comminity",
+        "description": "The third test category",
+        "order": 10,
+        "slug": "testcat10",
+        "image": "/favicon.ico"
+      }
+    ]
+
+  }
